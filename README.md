@@ -1,8 +1,6 @@
 ➡️ Installation:
 
-Clone the repository: git clone https://github.com/dem1sh/Game-of-Pong.git
-Run: index.html
-
+Clone the repository: git clone https://github.com/dem1sh/Game-of-Pong.git and run: index.html
 
 ➡️ Controls:
 
